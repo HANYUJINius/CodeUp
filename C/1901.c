@@ -17,6 +17,5 @@ int main(void)
     int num;
     scanf("%d", &num);
     sum(num);
-
     return 0;
 }
