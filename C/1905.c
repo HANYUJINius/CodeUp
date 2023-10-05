@@ -1,5 +1,6 @@
 //CodeUp_c_1905.c
-
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 int totalSum(int n)
 {
     if (n == 1)
